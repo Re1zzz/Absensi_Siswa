@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Absensi Siswa</string>
+    <string name="pastikan_masukkan_username_dan_password_dengan_benar">Pastikan masukkan Username dan Password dengan benar</string>
+    <string name="login">Login</string>
+</resources>
